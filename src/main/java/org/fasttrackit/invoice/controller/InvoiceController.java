@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.ArrayList;
 import java.util.List;
 
-@CrossOrigin("http://localhost:4200")
+@CrossOrigin("https://invoices-frontend-i5iocka57a-ey.a.run.app")
 @RestController
 @RequestMapping("invoices")
 public class InvoiceController {
